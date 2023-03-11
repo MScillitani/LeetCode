@@ -3,4 +3,6 @@ LeetCode.com
 
 ## Difficulty and Acceptance Rate
 
-In the READ_ME.txt file of each solution is the problem's difficulty and my solution acceptance rate.
+Most solutions have a READ_ME.txt file containing the problem's difficulty and and an explanation.
+
+Occasionally, an answer is so straightforward that I don't include an explanation.
