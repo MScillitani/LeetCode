@@ -1,8 +1,8 @@
 # My LeetCode solutions
 LeetCode.com
 
-## Difficulty and Acceptance Rate
+## Constraints
 
-Most solutions have a READ_ME.txt file containing the problem's difficulty and relevant information.
-
-Occasionally, an answer is so straightforward that I don't include a READ_ME file.
+1. Time limit: Easy = 10 min, Medium = 20 min, Hard = 30 min
+2. Coding medium: Pencil and paper, typed directly into the browser when finished (no help from an IDE/IntelliSense)
+3. Bonus: When an answer is found quickly, I try to find an even simpler solution with my remaining time
